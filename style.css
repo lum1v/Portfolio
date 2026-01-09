@@ -204,6 +204,14 @@ body {
   box-shadow: 0 10px 25px rgba(0,0,0,0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+.project-link {
+  text-decoration: none;
+  color: #222;
+  font-family: 'Inter', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+
 
 .project-card:hover {
   transform: translateY(-8px);
