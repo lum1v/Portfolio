@@ -13,7 +13,7 @@ body {
   margin-bottom: 10px;
 }
 
-.hero {
+.nour {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -27,13 +27,13 @@ body {
   border-color: black;
 }
 
-.hero-text {
+.nour-text {
   flex: 1;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(255, 255, 255);
   box-shadow: 4px 4px 4x rgba(61, 60, 60, 0.2);
 }
-.hero-image {
+.nour-image {
     opacity: 1;
     border: px solid hwb(155, 153 , 153);
     border-radius: 1px;
@@ -109,7 +109,7 @@ body {
 }
 
 
-.hero-image {
+.nour-image {
   max-width: 100px;
   max-height: 200px;
   border-radius: 1000px;
